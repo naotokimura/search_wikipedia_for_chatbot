@@ -1,11 +1,11 @@
 # Search Wikipedia For Chatbot
-This code returns the wikipedia summary data if you give the sentence.
+This code returns the wikipedia summary data if you give the sentence.<br>
 This code is supposed to be used on IBM Cloud Functions.(The serverless environment)
 
 # Step
-1.Morphological analysis
-2.Extract proper noun
-3.Search wikipedia
+1.Morphological analysis<br>
+2.Extract proper noun<br>
+3.Search wikipedia<br>
 
 # npm install
 * request
@@ -14,5 +14,5 @@ This code is supposed to be used on IBM Cloud Functions.(The serverless environm
 
 
 # How to use
-You can see how to use this code from the link below.
+You can see how to use this code from the link below.<br>
 https://qiita.com/naotokimura/items/ade2f83b5de70132accc
