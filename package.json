@@ -1,0 +1,9 @@
+{
+  "name": "YYYYYY",
+  "main": "index.js",
+  "dependencies" : {
+    "request": "2.74.0",
+    "mecabaas-client":"1.0.3",
+    "wikijs":"4.7.0"
+  }
+}
